@@ -16,6 +16,7 @@
 3) `cd attacker`
 4) `pip3 install -r requirements.txt`
 5) `python3 main.py`
+6) якщо вилітає то `while true; do python3 main.py; sleep 2; done`
 * при проблемах з pip3 на linux юзайте `apt install python3-pip`
 
 Про усі проблеми пишіть у issues, буду намагатися допомогти
